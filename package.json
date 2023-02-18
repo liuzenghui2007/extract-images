@@ -1,0 +1,12 @@
+{
+  "name": "extract-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pako": "^1.0.10",
+    "pdf-lib": "^0.6.1",
+    "pngjs": "^3.4.0",
+    "rimraf": "^2.6.3"
+  }
+}
